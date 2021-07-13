@@ -1,5 +1,6 @@
 # Weather_Predication
-Created a weather predication model
+
+Created a weather predication model 
 
 ### Algorithms Used
 1. Linear Regression.
